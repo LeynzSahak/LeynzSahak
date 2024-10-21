@@ -1,6 +1,10 @@
-<center>Hi! 👋 Nice to see you. Welcome to my page!<center/><br>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&color=black&duration=4000&lines=Hello+World!+This+is+Leynz+Sahak" />
+</h1>
 
-I'm Leynz Sahak, Safety and Health Practitioner from  Malaysia, currently living in Pasir Gudang, Johor.
+Nice to see you. Welcome to my page!<br>
+
+I'm Safety and Health Practitioner from  Malaysia, currently living in Pasir Gudang, Johor.
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
