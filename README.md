@@ -12,11 +12,6 @@ I’m interested in Data science (DS) due to offers a powerful tool for predicti
 
 💞️ My previous research areas are Inherent Safety and Health in process development and design at chemical plant idustry. I am deeply fascinated by these fields and constantly seek to contribute to them through my research. Now, my interest in looking for collaborating on data science projects focused on safety and health stems from a deep desire to leverage the power of data to create a safer and healthier work environement.
 
-- 📫 Contact Me:
-* 📩 Email: haslinda45@graduate.utm.my
-* 🔗 LinkedIn: [Leynz Sahak](https://www.linkedin.com/in/haslinda-abdul-sahak-9ab378267/)
-* ⚡ Facebook: [Leen Sahak](https://www.facebook.com/leensahak)
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=haslindaabdulsahak&label=Profile%20views&color=0e75b6&style=flat" alt="haslindaabdulsahak" /> </p>
 
 <!---
